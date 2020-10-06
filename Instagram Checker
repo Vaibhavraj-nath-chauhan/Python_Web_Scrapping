@@ -15,15 +15,6 @@
    "cell_type": "code",
    "execution_count": 132,
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Enter User Name:-->rana\n",
-      "Enter Password:-->vaibhav\n",
-      "Enter Correct UserName and Password\n"
-     ]
     }
    ],
    "source": [
